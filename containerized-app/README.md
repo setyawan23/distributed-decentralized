@@ -39,7 +39,7 @@ Aplikasi berhasil dijalankan di dalam container dan dapat diakses melalui browse
 
 Video Penjelasan
 Link video penjelasan:
-(isi dengan link video YouTube atau Google Drive)
+https://drive.google.com/file/d/1IorUSQqByO17SZ-cdKhIkmPxTtSEDHqK/view?usp=drive_link
 
 Source Code
 Source code aplikasi, Dockerfile, dan file pendukung lainnya terdapat pada direktori ini.
