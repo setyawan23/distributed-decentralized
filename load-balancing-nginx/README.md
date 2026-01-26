@@ -14,22 +14,16 @@ Menjalankan beberapa instance aplikasi backend
 
 Menguji distribusi request ke backend
 
-Tools dan Teknologi
-
 Nginx
 
 Docker
 
 Docker Compose
 
-Python Flask (Blacksheep)
-
 Arsitektur Sistem
 Client mengirim request ke Nginx. Nginx kemudian meneruskan request tersebut ke beberapa container backend secara bergantian menggunakan metode round-robin.
 
 Langkah Implementasi
-
-Menyiapkan aplikasi backend menggunakan framework Python Blacksheep
 
 Membuat konfigurasi Nginx sebagai reverse proxy dan load balancer
 
