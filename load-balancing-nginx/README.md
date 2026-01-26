@@ -41,8 +41,8 @@ Hasil Pengujian
 Hasil pengujian menunjukkan bahwa request client didistribusikan secara bergantian ke beberapa backend. Hal ini dapat dilihat dari perbedaan respon yang dikirimkan oleh masing-masing instance backend.
 
 Video Penjelasan
-Link video penjelasan:(maaf videonya ada di loom)
+Link video penjelasan:(maaf videonya ada di loom yang mode free pakai tidak ada fitur downloadnya jadi gak bisa saya upload ke google drive)
 https://www.loom.com/share/39e7215b70224d34a1abbc2e5368f837
 
 Source Code
-Source code dan file konfigurasi terdapat pada direktori ini, meliputi file docker-compose.yml, konfigurasi Nginx, dan source code aplikasi backend.
+Source code dan file konfigurasi terdapat pada direktori ini, meliputi file docker-compose.yml, konfigurasi Nginx.
