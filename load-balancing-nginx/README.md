@@ -42,7 +42,7 @@ Hasil pengujian menunjukkan bahwa request client didistribusikan secara berganti
 
 Video Penjelasan
 Link video penjelasan:
-(isi dengan link video YouTube atau Google Drive)
+https://drive.google.com/file/d/1njgztKZ7rLumY2SbrpolLcl__kaeTa6V/view?usp=drive_link
 
 Source Code
 Source code dan file konfigurasi terdapat pada direktori ini, meliputi file docker-compose.yml, konfigurasi Nginx, dan source code aplikasi backend.
