@@ -22,8 +22,9 @@ Tugas ini bertujuan untuk melakukan pembungkusan (containerization) aplikasi web
 Proses pembangunan image memakan waktu cukup lama pada tahap penarikan (pulling) data dari Docker Hub karena ukuran base image Python yang cukup besar, namun proses tetap berjalan stabil di tahap ekstraksi.
 
 ## Video Penjelasan
-Link video penjelasan:
-(Sedang dalam proses rekaman/upload karena kendala durasi build Docker yang memakan waktu lama di perangkat lokal).
+Link video penjelasan: (maaf pak di loom fitur downloadnya terkunci jadi saya unggah langsung dari loom tanpa dipindah ke google drive dulu)
+(https://www.loom.com/share/7ec530addb4f4e578dfff3b848ce5956)
+
 
 ## Source Code
 Source code dan file konfigurasi terdapat pada direktori ini, meliputi:
